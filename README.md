@@ -4,4 +4,4 @@
 
 ![](https://img.shields.io/badge/discord-mydd7-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-Org: [sonREvenge](https://github.com/sonREvenge) - game reversing and automation
+Org: [sonREvenge](https://github.com/sonREvenge)
