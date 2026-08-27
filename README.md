@@ -1,1 +1,8 @@
-[<img src="card.svg" alt="mydd7" />](https://github.com/sonREvenge)
+<pre>
+┌─────────────────────────┐
+│  mydd7                  │
+│                         │
+│  discord   <a href="https://discord.com/users/1402984970045096140">mydd7</a>        │
+│  org       <a href="https://github.com/sonREvenge">sonREvenge</a>   │
+└─────────────────────────┘
+</pre>
