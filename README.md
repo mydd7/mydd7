@@ -1,10 +1,10 @@
 <pre>
-┌─────────────────────────┐
-│  mydd7                  │
-│                         │
-│  contact   <a join revenge server and ping me</a>        │
-│  org       <a href="https://github.com/sonREvenge">sonREvenge</a>   │
-└─────────────────────────┘
+┌────────────────────────────────────────────┐
+│  mydd7                                     │
+│                                            │
+│  contact   join revenge server and ping me │
+│  org       <a href="https://github.com/sonREvenge">sonREvenge</a>                      │
+└────────────────────────────────────────────┘
 </pre>
 
 <pre>
