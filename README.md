@@ -2,7 +2,7 @@
 ┌─────────────────────────┐
 │  mydd7                  │
 │                         │
-│  discord   <a href="https://discord.com/users/1402984970045096140">mydd7</a>        │
+│  contact   <a join revenge server and ping me</a>        │
 │  org       <a href="https://github.com/sonREvenge">sonREvenge</a>   │
 └─────────────────────────┘
 </pre>
